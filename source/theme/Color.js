@@ -1,0 +1,16 @@
+export default {
+  Colorwhite: '#ffffff',
+  ColorBlack: '#000000',
+  HeaderColor: '#0D3068',
+  BackgroundColor: '#ECF6F6',
+  TextGrayColor: '#686969',
+  TextBlueColor: '#1D74D3',
+  OrangeColor: '#FF4A39',
+  OrangeLightColor: '#EB863B',
+  YellowTextColor: '#D8981C',
+  LightGray: 'rgba(210, 210, 210, 1)',
+  YellowLight: 'rgba(241, 203, 102, 1)',
+  BorderBlueColor:'rgba(131, 185, 208, 1)',
+  POSITIVE: 'green',
+  ERROR: 'red',
+};

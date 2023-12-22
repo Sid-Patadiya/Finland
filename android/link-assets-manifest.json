@@ -1,0 +1,53 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "source/assets/Font/Poppins-Black.ttf",
+      "sha1": "645e04c53c6b5b35bce654a811ebce16af8aa721"
+    },
+    {
+      "path": "source/assets/Font/Poppins-BlackItalic.ttf",
+      "sha1": "be4ef2aac7775a4b0179c0ecfce6cea8f7783f63"
+    },
+    {
+      "path": "source/assets/Font/Poppins-Bold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "source/assets/Font/Poppins-Light.ttf",
+      "sha1": "e247a92158e112f8bf7b638c8d95381d66b00dbb"
+    },
+    {
+      "path": "source/assets/Font/Poppins-Medium.ttf",
+      "sha1": "283f21b44efbdbf276ba802be2d949a36bbc4233"
+    },
+    {
+      "path": "source/assets/Font/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "source/assets/Font/Poppins-SemiBold.ttf",
+      "sha1": "8a4ace9392d06bcb7f8ea2f5169b07e4c383a90d"
+    },
+    {
+      "path": "source/assets/Font/Poppins-SemiBoldItalic.ttf",
+      "sha1": "0c8bed0a5942b2388d36b11c115685d9f01700b0"
+    },
+    {
+      "path": "source/assets/Font/Roboto-Bold.ttf",
+      "sha1": "47327df0f35e7cd7c8645874897a7449697544ae"
+    },
+    {
+      "path": "source/assets/Font/Roboto-Light.ttf",
+      "sha1": "e321c183e2b75ee19813892b7bac8d7c411cb88a"
+    },
+    {
+      "path": "source/assets/Font/Roboto-Medium.ttf",
+      "sha1": "6060ca726b9760b76f7c347dce9d2fa1fe42ec92"
+    },
+    {
+      "path": "source/assets/Font/Roboto-Regular.ttf",
+      "sha1": "824b5480c977a8166e177e5357d13164ccc45f47"
+    }
+  ]
+}

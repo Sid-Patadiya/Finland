@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "756639348164",
+    "firebase_url": "https://catzapptestaccount-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "catzapptestaccount",
+    "storage_bucket": "catzapptestaccount.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756639348164:android:940ce3fcc0fc812313e091",
+        "android_client_info": {
+          "package_name": "com.catzappjobseeker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756639348164-u3sjir8ap9ef3ohml6sd7d75bkpfqcsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpkD4G_k3YyvXK5LVl5_ytp2TlJaYx5Wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756639348164-u3sjir8ap9ef3ohml6sd7d75bkpfqcsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
